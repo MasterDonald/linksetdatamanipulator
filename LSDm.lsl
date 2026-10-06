@@ -1,5 +1,5 @@
 // ==============================================================================
-// LSDm: LINKSET DATA MANIPULATOR by CapeXCat
+// LSDm: LINKSET DATA MANIPULATOR by MasterDonald
 // ==============================================================================
 integer g_next_address = 0;
 integer g_active_allocations = 0;

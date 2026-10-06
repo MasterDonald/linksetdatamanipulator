@@ -1,5 +1,4 @@
-# LSDm: LINKSET DATA MANIPULATOR - OFFICIAL DOCUMENTATION by CapeXCat
-
+# LSDm: LINKSET DATA MANIPULATOR - OFFICIAL DOCUMENTATION by MasterDonald
 ## What is this?
 
 LSDm (Linkset Data Manipulator) is a dynamic memory allocation library written in LSL for Second Life. It utilizes the Linkset Data (LSD) system to simulate a persistent, virtual memory heap. It maintains a linked list of freed memory blocks to efficiently recycle keys, acting much like `malloc` and `free` in C.
